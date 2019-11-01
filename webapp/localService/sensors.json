@@ -1,0 +1,5015 @@
+{
+    "sensors": [
+        {
+            "_id": "5d4aec6e493d19caac85af6d",
+            "index": 0,
+            "guid": "e375cdda-879d-44af-8515-44ff315fe434",
+            "isActive": false,
+            "temperature": {
+                "value": 1.6356570667217847,
+                "time": 1565290856615
+            },
+            "distance": 33,
+            "customer": "MALLMART",
+            "location": "Chicago",
+            "temperatureLog": [
+                {
+                    "temperature": 1.707324481499911,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.6701699517470365,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.8204627355284142,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.7665989160045672,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.7185450707951588,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.7336104750699304,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.6645538284629202,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.6708323655184025,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.7487335387182257,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.657769332825846,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.8293655893734098,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.6356570667217847,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e22bed22d3c5798a8",
+            "index": 1,
+            "guid": "b1d1c17b-94f8-455a-bc5b-76047e45c8cf",
+            "isActive": false,
+            "temperature": {
+                "value": 2.584826447266265,
+                "time": 1565290856615
+            },
+            "distance": 50,
+            "customer": "TUSCO",
+            "location": "Los Angeles",
+            "temperatureLog": [
+                {
+                    "temperature": 2.538550309828496,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 2.696950172229602,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.723536519674474,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.6024042631760276,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.5637487485402146,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.697130904038505,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 2.599772761175487,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 2.595043158604114,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 2.6987462752954814,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 2.6240065293063366,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 2.7219607714805876,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 2.584826447266265,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ebf0cfec4119b244a",
+            "index": 2,
+            "guid": "b13b666d-26d5-487e-b0d4-5465b34e803d",
+            "isActive": true,
+            "temperature": {
+                "value": 3.1681749233480643,
+                "time": 1565290856615
+            },
+            "distance": 24,
+            "customer": "MATRO",
+            "location": "New York",
+            "temperatureLog": [
+                {
+                    "temperature": 3.1961084778182363,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.365660667284783,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.299877937818456,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.1971208264333777,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.2008225221539632,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.347565994065945,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.1600222103954114,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.2128759862245304,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.3590213406967,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.257188670276931,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.2197770249013624,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.1681749233480643,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e0acf4ebefea84cc1",
+            "index": 3,
+            "guid": "7b6cd6b2-689e-4e30-9c4a-b7eb7e9ffbbc",
+            "isActive": true,
+            "temperature": {
+                "value": 0.47557891964504106,
+                "time": 1565290856615
+            },
+            "distance": 25,
+            "customer": "MATRO",
+            "location": "Los Angeles",
+            "temperatureLog": [
+                {
+                    "temperature": 0.4541693374136443,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.39026738902419744,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.29101517400669574,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.33169454595634984,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.4163746777487995,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.29260159443764777,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.23945697634963292,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.4619567540765875,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.410777643992647,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.4470810244979326,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.4687384308455006,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.47557891964504106,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ef9878646625b0d3b",
+            "index": 4,
+            "guid": "bb5fe2fa-1af8-4006-8428-234ec5ebc896",
+            "isActive": false,
+            "temperature": {
+                "value": 1.1921179617034237,
+                "time": 1565290856615
+            },
+            "distance": 11,
+            "customer": "LITL",
+            "location": "Philadelphia",
+            "temperatureLog": [
+                {
+                    "temperature": 1.2291119427543458,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.0725453462838177,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.0218633055705144,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.145641365284947,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.0776481750021265,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.1946108068749037,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.0019200005052626,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.0052377047032914,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.179766098382485,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.2266720974611414,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.1880496948385333,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.1921179617034237,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ef61913941102e0d1",
+            "index": 5,
+            "guid": "30c89996-82fc-48d8-8775-2628b7b808ea",
+            "isActive": true,
+            "temperature": {
+                "value": 3.0904522086031525,
+                "time": 1565290856615
+            },
+            "distance": 23,
+            "customer": "MATRO",
+            "location": "Las Vegas",
+            "temperatureLog": [
+                {
+                    "temperature": 3.165273252975233,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.1200635417802043,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.157794014889124,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.0782955419457365,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.102789437380831,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.1899931907747034,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.0740444477675304,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.176398638354339,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 2.9950864687175835,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 2.981336015147348,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.0634827905444966,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.0904522086031525,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e8207b5061d1859c7",
+            "index": 6,
+            "guid": "817c5d8e-cdf0-45cb-9dcb-9153255a76fb",
+            "isActive": true,
+            "temperature": {
+                "value": 1.7611882003846515,
+                "time": 1565290856615
+            },
+            "distance": 26,
+            "customer": "MALLMART",
+            "location": "New York",
+            "temperatureLog": [
+                {
+                    "temperature": 1.6366324852808731,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.620132078966738,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.8186434229807658,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.662524520306273,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.6226779451120776,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.625926702658034,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.682475657329359,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.7302485385501771,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.646977767183589,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.8143084584058706,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.688148776153646,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.7611882003846515,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ebfae450509dbff8b",
+            "index": 7,
+            "guid": "13e8da63-59ef-491b-8761-956f098246e9",
+            "isActive": false,
+            "temperature": {
+                "value": 0.973366979593809,
+                "time": 1565290856615
+            },
+            "distance": 27,
+            "customer": "SPARR",
+            "location": "New York",
+            "temperatureLog": [
+                {
+                    "temperature": 0.9200096694619477,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.9325525935008496,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.9064140294015057,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.848814733798368,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.0819148041546112,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.0450178986738607,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.9224473039964833,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.8702916354280384,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.8694090185057166,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.8583487285267903,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.9306191740706029,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.973366979593809,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6eaa71ab68a12d7c50",
+            "index": 8,
+            "guid": "c8499bce-12db-41d6-920e-390e80af622d",
+            "isActive": true,
+            "temperature": {
+                "value": 0.6917516539146409,
+                "time": 1565290856615
+            },
+            "distance": 14,
+            "customer": "LITL",
+            "location": "Los Angeles",
+            "temperatureLog": [
+                {
+                    "temperature": 0.6889640761854628,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.7018515678085996,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.5022676917827926,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.6583399543014791,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.6855439926972415,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.5603114005126512,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.6813976602697538,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.643097508770278,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.6475644677411785,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.504167501247843,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.531612537509375,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.6917516539146409,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e63ff8dfa5bf76e6d",
+            "index": 9,
+            "guid": "6a238a4d-a985-4c61-9d62-dcd1de5b3232",
+            "isActive": true,
+            "temperature": {
+                "value": 1.233312245571049,
+                "time": 1565290856615
+            },
+            "distance": 36,
+            "customer": "OLDI",
+            "location": "Phoenix",
+            "temperatureLog": [
+                {
+                    "temperature": 1.216702871953975,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.1066931395544475,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.1480193909410978,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.1969550001945166,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.229608149388464,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.0673960949837915,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.2048410995717926,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.2303385083936262,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.1870550912781406,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.1335312139277223,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.1670366443710283,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.233312245571049,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ef5244ba598b178d3",
+            "index": 10,
+            "guid": "1904af7c-99b2-4259-b378-6813ce949364",
+            "isActive": true,
+            "temperature": {
+                "value": 3.8403912645916125,
+                "time": 1565290856615
+            },
+            "distance": 27,
+            "customer": "7-12",
+            "location": "New York",
+            "temperatureLog": [
+                {
+                    "temperature": 3.874673107383628,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.7375554128686175,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.781514609898839,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.8713423126409205,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.822061832524824,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.884062467077533,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.9144288656063977,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.683050054077773,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.908589509403076,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.7270806260474347,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.8134061699781383,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.8403912645916125,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ea8e64b4af2ebcde8",
+            "index": 11,
+            "guid": "94ed1cb3-d4f1-4e5e-bd66-e247800172fb",
+            "isActive": true,
+            "temperature": {
+                "value": 2.1073181762464115,
+                "time": 1565290856615
+            },
+            "distance": 46,
+            "customer": "7-12",
+            "location": "San Antonio",
+            "temperatureLog": [
+                {
+                    "temperature": 2.058415361318274,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 2.0214210927428122,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.1115719736098013,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.03654602006894,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.0942841771702323,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.9259103305633407,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.9182849514372333,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 2.0780762740906904,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.8889303150363888,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.955522306013087,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 2.007072967476283,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 2.1073181762464115,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ea28ca4b19236b13f",
+            "index": 12,
+            "guid": "2cbf4c5f-92e0-4baa-b28a-e8c3fa74896c",
+            "isActive": true,
+            "temperature": {
+                "value": 2.641417196749081,
+                "time": 1565290856615
+            },
+            "distance": 32,
+            "customer": "SPARR",
+            "location": "Philadelphia",
+            "temperatureLog": [
+                {
+                    "temperature": 2.5708276770773777,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 2.678346147195875,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.6960440117454145,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.5884807228466595,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.6661003291914294,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.604070822471394,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 2.543404982624298,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 2.5553208288260993,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 2.7534744621451352,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 2.5609127501432414,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 2.6827786633535595,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 2.641417196749081,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ef924fb00229ea401",
+            "index": 13,
+            "guid": "9a7ae8b1-e34e-4a42-8e8a-f94f0ae13989",
+            "isActive": false,
+            "temperature": {
+                "value": 1.4858863921495482,
+                "time": 1565290856615
+            },
+            "distance": 14,
+            "customer": "SPARR",
+            "location": "Chicago",
+            "temperatureLog": [
+                {
+                    "temperature": 1.3519672099894882,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.4024879907894419,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.3385996013678827,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.388083102442377,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.4450447505235207,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.4894952542058397,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.559608260367822,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.4409474757098568,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.4177894703994618,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.3388346196297463,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.3323303128524058,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.4858863921495482,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ec4f0dc68cb2623e4",
+            "index": 14,
+            "guid": "0e1fd4d6-cfdd-4989-9954-359a7ba0a2c9",
+            "isActive": true,
+            "temperature": {
+                "value": 1.5332383185563736,
+                "time": 1565290856615
+            },
+            "distance": 19,
+            "customer": "MATRO",
+            "location": "Houston",
+            "temperatureLog": [
+                {
+                    "temperature": 1.747719596885373,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.5391696757878524,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.614254279383434,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.5775595605166437,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.5387955692507096,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.7213480410039321,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.5835821433626913,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.7178527284741645,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.5496896444678356,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.639548158710491,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.7066216887990586,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.5332383185563736,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e15e3308bd6aad2e8",
+            "index": 15,
+            "guid": "4867b143-504d-4351-806e-4cc72743468a",
+            "isActive": true,
+            "temperature": {
+                "value": 3.7309913251147853,
+                "time": 1565290856615
+            },
+            "distance": 22,
+            "customer": "TUSCO",
+            "location": "Chicago",
+            "temperatureLog": [
+                {
+                    "temperature": 1.3136697428020372,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.6015140159433827,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.5811167076302919,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.684868955620675,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.8067820798209442,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.4940829589809375,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 2.5204199055917966,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 2.726290036302929,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 2.91915128835081,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 2.961511922367526,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 2.479986887454455,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.7309913251147853,
+                    "time": 1565290856615
+                }
+            ],
+            "status": "deviated"
+        },
+        {
+            "_id": "5d4aec6e3451b048fdd656e4",
+            "index": 16,
+            "guid": "c8e6ec52-e424-4592-9543-7931a7e2ebf6",
+            "isActive": true,
+            "temperature": {
+                "value": -0.009712683273547629,
+                "time": 1565290856615
+            },
+            "distance": 39,
+            "customer": "MALLMART",
+            "location": "San Antonio",
+            "temperatureLog": [
+                {
+                    "temperature": 0.04961193995660962,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.002457513562115432,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.22421930125018258,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.11323329943651711,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.11731277965475717,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.08726415937982279,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.0660126391844365,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.17980235260430594,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.03123421785982089,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.15100768002371795,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.08595825986220262,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": -0.009712683273547629,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e33d89485ed73a6e0",
+            "index": 17,
+            "guid": "f9f50024-34a7-4130-97aa-987d6b5d573f",
+            "isActive": true,
+            "temperature": {
+                "value": 1.2448368637535903,
+                "time": 1565290856615
+            },
+            "distance": 14,
+            "customer": "LITL",
+            "location": "New York",
+            "temperatureLog": [
+                {
+                    "temperature": 1.0448783306867382,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.1040251266303809,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.2405036599447226,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.0691346702347189,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.0478340479857209,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.1701689259285577,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.185182012516631,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.2493963705840563,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.128357362573086,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.0744996345851505,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.1839616450151635,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.2448368637535903,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e3df4c719b46e9662",
+            "index": 18,
+            "guid": "384a6852-8751-467c-8b2d-58763301299b",
+            "isActive": true,
+            "temperature": {
+                "value": 0.7725801313632763,
+                "time": 1565290856615
+            },
+            "distance": 37,
+            "customer": "MATRO",
+            "location": "New York",
+            "temperatureLog": [
+                {
+                    "temperature": 0.67371699701263,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.6318116151156762,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.8106556866872718,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.7285414757245587,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.6201382112420925,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.6677018084340343,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.5716382132761173,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.6437066653924493,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.5796780881104937,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.7653129182621629,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.655605128264998,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.7725801313632763,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e785ecca57895424c",
+            "index": 19,
+            "guid": "e23e16e6-b119-41cb-87a2-4e215c1ca8bb",
+            "isActive": true,
+            "temperature": {
+                "value": 1.9495511932862455,
+                "time": 1565290856615
+            },
+            "distance": 29,
+            "customer": "LITL",
+            "location": "Philadelphia",
+            "temperatureLog": [
+                {
+                    "temperature": 2.0673992127636556,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 2.0409094421772696,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.076555012298985,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.9270377029919397,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.9022740350089364,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.073222036536918,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.8570642995491804,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 2.0867415674851784,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 2.018624040606556,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.9986424003481875,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.8658911486604643,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.9495511932862455,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6eda79dd7303f969cd",
+            "index": 20,
+            "guid": "972a6b20-d660-4aeb-811c-b79a1103066b",
+            "isActive": false,
+            "temperature": {
+                "value": 1.5914787120909248,
+                "time": 1565290856615
+            },
+            "distance": 39,
+            "customer": "MALLMART",
+            "location": "New York",
+            "temperatureLog": [
+                {
+                    "temperature": 1.6669181972554166,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.544237661844933,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.7294927282905275,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.5113480475373702,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.6765570878962472,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.5182039792613553,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.6739701345557756,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.6558447372223168,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.6899284091364146,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.5108742499504038,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.726126404601054,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.5914787120909248,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6eaeb8540aa9f28db0",
+            "index": 21,
+            "guid": "8cdbde35-3d14-493f-b417-9bcd5ac8e7f3",
+            "isActive": false,
+            "temperature": {
+                "value": 3.2908146048427858,
+                "time": 1565290856615
+            },
+            "distance": 50,
+            "customer": "7-12",
+            "location": "San Francisco",
+            "temperatureLog": [
+                {
+                    "temperature": 3.510606808392734,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.4966850695584704,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.344482754488381,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.4932436343705016,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.3803911961375888,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.3165779238278437,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.4754945927604783,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.3284282209832914,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.4016686678096115,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.405800395482998,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.4054328340990114,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.2908146048427858,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e2903396481e41376",
+            "index": 22,
+            "guid": "ca6b4a91-ce90-4118-ab9a-c37f221a24dd",
+            "isActive": false,
+            "temperature": {
+                "value": 2.3591865443239293,
+                "time": 1565290856615
+            },
+            "distance": 15,
+            "customer": "LITL",
+            "location": "San Francisco",
+            "temperatureLog": [
+                {
+                    "temperature": 2.4265290330659077,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 2.4799730602074272,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.5688394447110574,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.4293437291382802,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.4629018654897545,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.3543104105547443,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 2.5441789937164248,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 2.4616638131556208,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 2.361012580947229,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 2.4323187673164064,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 2.3843569261636506,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 2.3591865443239293,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ecddc9a069ea53cfd",
+            "index": 23,
+            "guid": "91a8d413-3169-4bf6-a4a0-53877c4cbef8",
+            "isActive": false,
+            "temperature": {
+                "value": 1.7717484535030537,
+                "time": 1565290856615
+            },
+            "distance": 16,
+            "customer": "MALLMART",
+            "location": "Philadelphia",
+            "temperatureLog": [
+                {
+                    "temperature": 1.7186717163121206,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.823784503694693,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.582597165473714,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.5953432499485762,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.698289521069041,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.7738335405836008,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.8273385427589872,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.7013369290322629,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.6911694292550092,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.698485884990172,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.7775032170388056,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.7717484535030537,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e071b742c42f757ce",
+            "index": 24,
+            "guid": "0177c797-03e5-4267-8bbb-1ad0fe65d492",
+            "isActive": true,
+            "temperature": {
+                "value": 3.436064795195554,
+                "time": 1565290856615
+            },
+            "distance": 25,
+            "customer": "LITL",
+            "location": "New York",
+            "temperatureLog": [
+                {
+                    "temperature": 3.2424284223646502,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.3179248458340043,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.3957419439363,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.3794294994667458,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.300642442658232,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.3118689954512166,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.2151325562191255,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.2430361584386467,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.321648748394888,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.374480584542478,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.4302708251480247,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.436064795195554,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ed50f5b98bbce5087",
+            "index": 25,
+            "guid": "8aaa779a-6221-498e-97b6-4b229ac720a3",
+            "isActive": true,
+            "temperature": {
+                "value": 1.449328214529529,
+                "time": 1565290856615
+            },
+            "distance": 4,
+            "customer": "7-12",
+            "location": "New York",
+            "temperatureLog": [
+                {
+                    "temperature": 1.5341558644552065,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.4144018576769484,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.340295740991945,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.5096329723811326,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.3868898534045229,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.3537031217366384,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.447410805469223,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.3745432112681175,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.5003411564163205,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.5778822705602504,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.3794348403373857,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.449328214529529,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ed4105b865ee01db6",
+            "index": 26,
+            "guid": "8517ee16-b285-4fc3-a53a-ffee18e20412",
+            "isActive": false,
+            "temperature": {
+                "value": 1.9824252582976782,
+                "time": 1565290856615
+            },
+            "distance": 34,
+            "customer": "OLDI",
+            "location": "Phoenix",
+            "temperatureLog": [
+                {
+                    "temperature": 1.9139571975224245,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.9437098600143954,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.7905326196545661,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.9557751544933797,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.8047011960417967,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.9344274874391285,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.8939665981007252,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.9897170099661452,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.763032087334812,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.809032729522587,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.9107338941853365,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.9824252582976782,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ea074560567f810f8",
+            "index": 27,
+            "guid": "360811ea-eb46-45a3-904b-ca33f435a7b1",
+            "isActive": false,
+            "temperature": {
+                "value": 0.8833282256813679,
+                "time": 1565290856615
+            },
+            "distance": 44,
+            "customer": "SPARR",
+            "location": "Philadelphia",
+            "temperatureLog": [
+                {
+                    "temperature": 0.7181837089272468,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.8513845796844599,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.7880793064437169,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.8097033087044903,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.8414864866209724,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.705006911335498,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.86836510452,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.7888542445854743,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.7589985682136535,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.9125186063928319,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.7343034698452733,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.8833282256813679,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e082afcb546ab5737",
+            "index": 28,
+            "guid": "99ee46b7-bf86-4a59-a5fd-32ac95d3d59a",
+            "isActive": false,
+            "temperature": {
+                "value": 0.28612027770710935,
+                "time": 1565290856615
+            },
+            "distance": 42,
+            "customer": "MALLMART",
+            "location": "Las Vegas",
+            "temperatureLog": [
+                {
+                    "temperature": 0.21380781348082933,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.3543093560232014,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.22020223224143803,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.3916601739542672,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.3711495126846312,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.3934212964600501,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.2875389623606258,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.35773091986258376,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.161145876300422,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.22592577847070433,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.288420271458032,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.28612027770710935,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e0e32eeb2eca445d6",
+            "index": 29,
+            "guid": "9dcd74f7-630c-4334-85d9-ea72996d6ee6",
+            "isActive": true,
+            "temperature": {
+                "value": 3.131248688906447,
+                "time": 1565290856615
+            },
+            "distance": 11,
+            "customer": "7-12",
+            "location": "Philadelphia",
+            "temperatureLog": [
+                {
+                    "temperature": 3.1090193086181315,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.1901526363946915,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.2863687082517448,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.2553659434120794,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.258308923872342,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.3092015776517627,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.3052781961675324,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.151315663532781,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.282776057427666,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.2208877464921106,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.3000568103772627,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.131248688906447,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e2e53d921ab8791d7",
+            "index": 30,
+            "guid": "f2bf2579-8214-4efd-93d5-ac3f433f49b6",
+            "isActive": true,
+            "temperature": {
+                "value": 2.3960298375142832,
+                "time": 1565290856615
+            },
+            "distance": 17,
+            "customer": "SPARR",
+            "location": "New York",
+            "temperatureLog": [
+                {
+                    "temperature": 2.4483668682921516,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 2.335277911055173,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.4280076975261036,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.2884752692210397,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.312507925967573,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.426984604675827,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 2.4950306276287435,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 2.4271214471818805,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 2.3958870503984793,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 2.4441537228383536,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 2.406055526470162,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 2.3960298375142832,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e011dd7418474a9f6",
+            "index": 31,
+            "guid": "d44b358c-e112-4969-b3e2-ed763af93fc3",
+            "isActive": false,
+            "temperature": {
+                "value": 3.7012598260377567,
+                "time": 1565290856615
+            },
+            "distance": 30,
+            "customer": "LITL",
+            "location": "Phoenix",
+            "temperatureLog": [
+                {
+                    "temperature": 3.5521387775960895,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.669858582015867,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.5279148668173086,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.5804991600826885,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.528460577090814,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.614503063620384,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.552973586652851,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.5593394392854436,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.6770054220960025,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.6071401444737003,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.6413572747353093,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.7012598260377567,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e47b9c84618d79702",
+            "index": 32,
+            "guid": "e197b6dd-11ef-4a35-94b7-002b50cdd275",
+            "isActive": true,
+            "temperature": {
+                "value": -0.07765602967313955,
+                "time": 1565290856615
+            },
+            "distance": 24,
+            "customer": "TUSCO",
+            "location": "Los Angeles",
+            "temperatureLog": [
+                {
+                    "temperature": -0.10134011478468656,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": -0.05936960576296656,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": -0.014626200582993507,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": -0.05847772248629905,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": -0.12907937121594015,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": -0.07426830402787547,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": -0.16694928188001823,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.04754435976865197,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": -0.06274625570604513,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": -0.18388259104902954,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.042858214204771386,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": -0.07765602967313955,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6eba1066af3c73b406",
+            "index": 33,
+            "guid": "74f5a442-3149-4a46-bd2a-e7fc3c2e7647",
+            "isActive": false,
+            "temperature": {
+                "value": 1.7667529140359797,
+                "time": 1565290856615
+            },
+            "distance": 38,
+            "customer": "MATRO",
+            "location": "San Antonio",
+            "temperatureLog": [
+                {
+                    "temperature": 1.626072486895124,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.5620306993176931,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.6158076012295945,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.693757270720207,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.5849520360053464,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.7349981622623716,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.6426255034520665,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.689448048975612,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.6416352970424994,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.6672773043009546,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.6279642565739751,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.7667529140359797,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e8be25ef036c90bd1",
+            "index": 34,
+            "guid": "74e81356-92e0-4a44-a72a-a57a5ebeabd0",
+            "isActive": false,
+            "temperature": {
+                "value": 0.9192261401673597,
+                "time": 1565290856615
+            },
+            "distance": 32,
+            "customer": "MATRO",
+            "location": "Chicago",
+            "temperatureLog": [
+                {
+                    "temperature": 0.8571773592462879,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.8765540921646666,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.864021148330677,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.8939082665075074,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.8907952664782262,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.9693691549309948,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.0577829874107758,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.9219061113384293,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.046296455490737,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.8505889024457671,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.9667981163793554,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.9192261401673597,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e43b2669f80f27c8c",
+            "index": 35,
+            "guid": "c33b398b-739b-4461-bef0-78d6b099663c",
+            "isActive": true,
+            "temperature": {
+                "value": 3.7723616015657044,
+                "time": 1565290856615
+            },
+            "distance": 26,
+            "customer": "MALLMART",
+            "location": "San Antonio",
+            "temperatureLog": [
+                {
+                    "temperature": 3.856406637807862,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.747093814642184,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.946712191850337,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.918401644768616,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.8280926738044743,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.7722953000793127,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.8786338965023406,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.798964665629439,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.7108111315752295,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.849256629110487,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.9399661745367176,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.7723616015657044,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e7c386813f08dbf9d",
+            "index": 36,
+            "guid": "5f2e97aa-ca7a-434f-9976-94519ce66157",
+            "isActive": false,
+            "temperature": {
+                "value": 3.4960507947409223,
+                "time": 1565290856615
+            },
+            "distance": 3,
+            "customer": "7-12",
+            "location": "Las Vegas",
+            "temperatureLog": [
+                {
+                    "temperature": 1.7268375641555471,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.9493000219325376,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.0444069269320564,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.259006340333539,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.236941268805419,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.404013087156665,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 2.8942281732342137,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.0829650520831606,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.157479420259606,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.062608448089696,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.6114338149239282,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.4960507947409223,
+                    "time": 1565290856615
+                }
+            ],
+            "status": "deviated"
+        },
+        {
+            "_id": "5d4aec6e12094cd8eb8e9693",
+            "index": 37,
+            "guid": "06b2380b-f99f-4e4f-ad8f-637395093d60",
+            "isActive": true,
+            "temperature": {
+                "value": 5.431381889632507,
+                "time": 1565290856615
+            },
+            "distance": 19,
+            "customer": "MATRO",
+            "location": "Philadelphia",
+            "temperatureLog": [
+                {
+                    "temperature": 4.058278587859068,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 4.090194604539828,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 4.335631521629678,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 4.177122524351378,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 4.76682092618566,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 4.659130028102497,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 4.848610153639408,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 5.0885599759638875,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 4.8006713724059695,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 5.517609833219216,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 5.104487097010951,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 5.431381889632507,
+                    "time": 1565290856615
+                }
+            ],
+            "status": "deviated"
+        },
+        {
+            "_id": "5d4aec6ee473f0861cda9cad",
+            "index": 38,
+            "guid": "92576388-82dc-4f03-909b-d7de0fdc01ce",
+            "isActive": false,
+            "temperature": {
+                "value": 1.0710067621312485,
+                "time": 1565290856615
+            },
+            "distance": 34,
+            "customer": "SPARR",
+            "location": "Phoenix",
+            "temperatureLog": [
+                {
+                    "temperature": 0.972765929018726,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.9856102251902038,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.0707896878892738,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.9386771453684655,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.9570766650445199,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.9139957679583623,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.9366864504324752,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.048670176555325,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.8746655273587848,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.883928827920339,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.9086654816465061,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.0710067621312485,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e27aa707f7d0c35bd",
+            "index": 39,
+            "guid": "644bb903-112e-46a8-8d25-01bfae31376f",
+            "isActive": false,
+            "temperature": {
+                "value": 3.3347727464386474,
+                "time": 1565290856615
+            },
+            "distance": 38,
+            "customer": "MATRO",
+            "location": "Chicago",
+            "temperatureLog": [
+                {
+                    "temperature": 3.2562227806046824,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.292827709366782,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.332606428391072,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.346601615770469,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.3536108168809475,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.2406830944189324,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.4134339120773207,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.262467018739883,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.344670661076806,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.3987549784295625,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.262292423962996,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.3347727464386474,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ef5e02b391b364c96",
+            "index": 40,
+            "guid": "501151e0-d71c-4f3e-b0ce-585ca3c3cc63",
+            "isActive": true,
+            "temperature": {
+                "value": 1.2766669700118363,
+                "time": 1565290856615
+            },
+            "distance": 12,
+            "customer": "MATRO",
+            "location": "Chicago",
+            "temperatureLog": [
+                {
+                    "temperature": 1.453446723518838,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.4614673959518822,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.444082696649113,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.3891703610354529,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.3273800128582525,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.4158127200639274,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.2654724847168248,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.3894108820672704,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.448588045720503,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.2918766674088027,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.3015904971718626,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.2766669700118363,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e6b0e2df4b4058618",
+            "index": 41,
+            "guid": "614e9b26-ef7f-4bde-b852-06e34c3e99a0",
+            "isActive": true,
+            "temperature": {
+                "value": 1.9479461943097638,
+                "time": 1565290856615
+            },
+            "distance": 34,
+            "customer": "MALLMART",
+            "location": "Las Vegas",
+            "temperatureLog": [
+                {
+                    "temperature": 1.9941199557842615,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.9115070158813563,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.9393365883254883,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.149732522786453,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.120732409337546,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.0382918084435664,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 2.11869383663333,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 2.1358007700811963,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.9423284885790917,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 2.088466484244545,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 2.125836503481943,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.9479461943097638,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e047b66a937eff042",
+            "index": 42,
+            "guid": "4042323f-7883-4b97-8e0a-a88b90204748",
+            "isActive": true,
+            "temperature": {
+                "value": 3.801240418300099,
+                "time": 1565290856615
+            },
+            "distance": 34,
+            "customer": "MALLMART",
+            "location": "Chicago",
+            "temperatureLog": [
+                {
+                    "temperature": 3.830379293328329,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.776434482759699,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.8157181728955085,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.661302262628443,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.7720418291027284,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.711250479618471,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.796538571482596,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.6847077123142724,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.7133599160785504,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.6710301654468664,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.814080099281731,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.801240418300099,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6effc5566c300500d8",
+            "index": 43,
+            "guid": "dcf6174d-8db2-4fd1-8d5d-08c46e3018b4",
+            "isActive": true,
+            "temperature": {
+                "value": 1.6534654358212602,
+                "time": 1565290856615
+            },
+            "distance": 8,
+            "customer": "LITL",
+            "location": "San Antonio",
+            "temperatureLog": [
+                {
+                    "temperature": 1.7000246059635624,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.7290509873262843,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.6465789467948446,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.8847560290850336,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.7683567969402496,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.8763220332305504,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.6626789483004483,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.8159831441639191,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.8438393711165615,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.7744083080559534,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.7283300984152983,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.6534654358212602,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e683e4c7383cc44d7",
+            "index": 44,
+            "guid": "3c3a3a12-e743-4f56-8b45-54accc789f93",
+            "isActive": false,
+            "temperature": {
+                "value": 4.27845299026214,
+                "time": 1565290856615
+            },
+            "distance": 8,
+            "customer": "SPARR",
+            "location": "Los Angeles",
+            "temperatureLog": [
+                {
+                    "temperature": 2.0483571777584553,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.9887655637167767,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.1334700669507303,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.285663607962836,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.6003388928246873,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.9267889417274446,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 2.6635583742651745,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.1163213638649276,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.3610464984626054,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.304215813685423,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 2.963773972627184,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 4.27845299026214,
+                    "time": 1565290856615
+                }
+            ],
+            "status": "deviated"
+        },
+        {
+            "_id": "5d4aec6e05395eee89d36f93",
+            "index": 45,
+            "guid": "c6c928ce-82b3-4016-b6e0-7ce0d2e00005",
+            "isActive": false,
+            "temperature": {
+                "value": 1.4150803098810831,
+                "time": 1565290856615
+            },
+            "distance": 4,
+            "customer": "OLDI",
+            "location": "Chicago",
+            "temperatureLog": [
+                {
+                    "temperature": 1.6390787378091625,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.4921573880409529,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.437085242621073,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.631474165910554,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.5947691145093232,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.5872504961689782,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.4800699181317105,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.4340405011493091,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.450029833464801,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.4366360343141171,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.515405843090618,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.4150803098810831,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ec8bebbef848cafcf",
+            "index": 46,
+            "guid": "2e52aea7-66f8-4bf9-a7bd-84ec0b4fdfb9",
+            "isActive": false,
+            "temperature": {
+                "value": 0.07736346453669121,
+                "time": 1565290856615
+            },
+            "distance": 3,
+            "customer": "7-12",
+            "location": "Las Vegas",
+            "temperatureLog": [
+                {
+                    "temperature": -0.017596935676483322,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": -0.013075522143494084,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.03594914217305348,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.20287317523829082,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.15768528854960703,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.008539695894614369,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.03390690540040617,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.11457343906391429,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.07149384634919861,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.13164321565270345,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.04219619556364454,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.07736346453669121,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e76fd57dd9b1d64b9",
+            "index": 47,
+            "guid": "fe0e4e02-9dae-4a58-a67f-3ad15e3db6b4",
+            "isActive": true,
+            "temperature": {
+                "value": 4.240525440934228,
+                "time": 1565290856615
+            },
+            "distance": 36,
+            "customer": "7-12",
+            "location": "Chicago",
+            "temperatureLog": [
+                {
+                    "temperature": 2.8652554401314303,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 2.9787611775969873,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.265504515766184,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.426259723733544,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.4540501511793247,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.4092870228073915,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.8327107508102918,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.4705427242687716,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 4.256074744179678,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 4.038714100139761,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 4.841364315648279,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 4.240525440934228,
+                    "time": 1565290856615
+                }
+            ],
+            "status": "deviated"
+        },
+        {
+            "_id": "5d4aec6e0f6e2d421c0f51dd",
+            "index": 48,
+            "guid": "2a0bb466-bc75-42e2-8172-326ef85b9973",
+            "isActive": true,
+            "temperature": {
+                "value": 0.884405907090045,
+                "time": 1565290856615
+            },
+            "distance": 23,
+            "customer": "MATRO",
+            "location": "Houston",
+            "temperatureLog": [
+                {
+                    "temperature": 0.9798428070638967,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.0965444608144947,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.9157216267475707,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.9257125188935041,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.9696441609532436,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.0992614510064191,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.0957311754943775,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.9488093557052869,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.034866156659803,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.0876527239536251,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.8784666963817239,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.884405907090045,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ecf84f5985d78aa8a",
+            "index": 49,
+            "guid": "4e3d25b6-3ede-40cb-a656-cb394d4c12d0",
+            "isActive": true,
+            "temperature": {
+                "value": 0.23335987408798536,
+                "time": 1565290856615
+            },
+            "distance": 13,
+            "customer": "TUSCO",
+            "location": "New York",
+            "temperatureLog": [
+                {
+                    "temperature": 0.44066470272023367,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.25077082032534703,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.2272092868844678,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.24079319470208665,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.38992867808653797,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.355830363154288,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.3475251547143344,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.2306478500535719,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.37695163064076453,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.3934212974770036,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.2758906183975599,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.23335987408798536,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e6cd2e4a767fe674d",
+            "index": 50,
+            "guid": "5a27372f-291d-4da7-911f-24ae706b547f",
+            "isActive": false,
+            "temperature": {
+                "value": 0.2074856715905935,
+                "time": 1565290856615
+            },
+            "distance": 45,
+            "customer": "OLDI",
+            "location": "Phoenix",
+            "temperatureLog": [
+                {
+                    "temperature": 0.1017640410211822,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.22130085440278585,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.3247118689554291,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.3174033575748455,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.10358017520031582,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.20744024034943548,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.21365710680387923,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.12314664588899155,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.25226899579882467,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.09397972726739862,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.20150127415223884,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.2074856715905935,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e30cc0d977089ca41",
+            "index": 51,
+            "guid": "13a29f77-1ff2-44f1-bcb3-25b1f46f28f5",
+            "isActive": false,
+            "temperature": {
+                "value": 3.2780632008394,
+                "time": 1565290856615
+            },
+            "distance": 9,
+            "customer": "MALLMART",
+            "location": "Phoenix",
+            "temperatureLog": [
+                {
+                    "temperature": 3.1297360990936234,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.077134380727728,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.138379999313497,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.2123535317547556,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.2529744244867813,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.237038948153764,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.283798891326202,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.0690188699169627,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.2233236832831014,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.210655623604323,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.275498346371313,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.2780632008394,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ecf900788664d83da",
+            "index": 52,
+            "guid": "92bc52b5-b81f-4a1e-90a5-3b954d668d38",
+            "isActive": false,
+            "temperature": {
+                "value": 3.520175952174083,
+                "time": 1565290856615
+            },
+            "distance": 39,
+            "customer": "SPARR",
+            "location": "Chicago",
+            "temperatureLog": [
+                {
+                    "temperature": 3.544601971465957,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.58327308533317,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.590331683760354,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.608244882221683,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.6850385459149595,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.702996303035828,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.667583768989108,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.499267228416813,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.487639882192635,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.4819281637418626,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.667176640283004,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.520175952174083,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ea87844f5c120c9bf",
+            "index": 53,
+            "guid": "f85d96f6-e697-4af7-9e2e-a9ce890751eb",
+            "isActive": true,
+            "temperature": {
+                "value": 3.062220698588626,
+                "time": 1565290856615
+            },
+            "distance": 14,
+            "customer": "MALLMART",
+            "location": "Phoenix",
+            "temperatureLog": [
+                {
+                    "temperature": 2.994602038062427,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 2.90937189307558,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.948809563128715,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.12207583239428,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.1330569936982027,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.9111811079005303,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.087192867883521,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.1228196829517416,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.074051738763734,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 2.920360197914592,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.0120132155953394,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.062220698588626,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e359eef91de08c187",
+            "index": 54,
+            "guid": "632707dd-502d-48b4-8cee-343b33b6f906",
+            "isActive": false,
+            "temperature": {
+                "value": 3.6645151356356496,
+                "time": 1565290856615
+            },
+            "distance": 3,
+            "customer": "TUSCO",
+            "location": "Philadelphia",
+            "temperatureLog": [
+                {
+                    "temperature": 3.728976633480558,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.693519882603514,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.750725068627577,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.7899160685000024,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.6747582220495625,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.6005857732491835,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.7022036122297513,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.679912960135637,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.7471823461064524,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.7183802640778145,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.696485966728157,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.6645151356356496,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e15bcdde5a02346f6",
+            "index": 55,
+            "guid": "e21d5b67-0e18-47bf-84e4-b88c8dbd25bc",
+            "isActive": true,
+            "temperature": {
+                "value": 2.0791642529654704,
+                "time": 1565290856615
+            },
+            "distance": 27,
+            "customer": "SPARR",
+            "location": "San Francisco",
+            "temperatureLog": [
+                {
+                    "temperature": 2.2342156051953284,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 2.1938258786746667,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.220173170980111,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.0380832989261917,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.1195307357731425,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.204005903960345,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 2.2135692691141653,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 2.0751096126233097,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 2.180012803068925,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 2.11354947037898,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 2.1774120526003045,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 2.0791642529654704,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e816592eca5661f2e",
+            "index": 56,
+            "guid": "c2c1ab94-575f-441f-be8a-62db3a2a08d3",
+            "isActive": true,
+            "temperature": {
+                "value": 0.006435506979194733,
+                "time": 1565290856615
+            },
+            "distance": 9,
+            "customer": "7-12",
+            "location": "Houston",
+            "temperatureLog": [
+                {
+                    "temperature": 0.02552055346258672,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": -0.00725453302291354,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.1549255234360257,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.0375215123627132,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.13487709881312052,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.08881855422566495,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.18511247618563523,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.06427553428304475,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": -0.014194436745870481,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.18666861097329077,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.09942146668162002,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.006435506979194733,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e09a8f6571d781d2f",
+            "index": 57,
+            "guid": "6acdbe09-dbec-4350-97f9-34590aab8b66",
+            "isActive": false,
+            "temperature": {
+                "value": 3.274428425357218,
+                "time": 1565290856615
+            },
+            "distance": 28,
+            "customer": "TUSCO",
+            "location": "Las Vegas",
+            "temperatureLog": [
+                {
+                    "temperature": 3.337640065799421,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.3586423032324446,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.33080639515567,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.271555687559063,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.2262794759262463,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.287063289825719,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.2373744472662462,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.402886568498932,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.4409484054989905,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.4088961902382966,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.376229846279148,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.274428425357218,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e5b8aa55411dfc23f",
+            "index": 58,
+            "guid": "9248c688-58fd-4e01-9197-f7882bc0de67",
+            "isActive": false,
+            "temperature": {
+                "value": 3.217420082642613,
+                "time": 1565290856615
+            },
+            "distance": 49,
+            "customer": "OLDI",
+            "location": "Chicago",
+            "temperatureLog": [
+                {
+                    "temperature": 3.0612357579660943,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.1569264275458684,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 3.058486139734972,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 3.255470910648319,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 3.079245205867304,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.160164884891555,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.270567988148543,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 3.22134181340145,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.267741133250769,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 3.073381421779435,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 3.2959056149063644,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 3.217420082642613,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e84e991d37facd74e",
+            "index": 59,
+            "guid": "73c2e536-8cc3-4580-bf65-cf97e06ce1b0",
+            "isActive": false,
+            "temperature": {
+                "value": -0.1330321734520297,
+                "time": 1565290856615
+            },
+            "distance": 6,
+            "customer": "OLDI",
+            "location": "New York",
+            "temperatureLog": [
+                {
+                    "temperature": -0.0389172143009118,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": -0.12983962090922388,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": -0.161566209420153,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": -0.048265035812916274,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.00793121715255976,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": -0.21184202957757078,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": -0.1131413792227555,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.0179349268752744,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": -0.00822685517710206,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": -0.17709564422689436,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": -0.10180923017568436,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": -0.1330321734520297,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ef6e940053f3a5cf7",
+            "index": 60,
+            "guid": "3c3a57c3-29c8-4e2e-ae5d-e9181b2323d5",
+            "isActive": false,
+            "temperature": {
+                "value": 2.774383456469433,
+                "time": 1565290856615
+            },
+            "distance": 12,
+            "customer": "MALLMART",
+            "location": "Chicago",
+            "temperatureLog": [
+                {
+                    "temperature": 2.667186732335548,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 2.71371594216768,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.7005343766603898,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.8282729204921635,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.8213383236313216,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.755872417410858,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 2.627253377819275,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 2.7651848077995265,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 2.6191384509448987,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 2.844880578531892,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 2.6388886096826383,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 2.774383456469433,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ed5e81e48fb3a4ce1",
+            "index": 61,
+            "guid": "f11f8eed-3338-451f-914d-d1b681161c4d",
+            "isActive": true,
+            "temperature": {
+                "value": 0.34204121177599106,
+                "time": 1565290856615
+            },
+            "distance": 24,
+            "customer": "MALLMART",
+            "location": "Houston",
+            "temperatureLog": [
+                {
+                    "temperature": 0.40281460673440933,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.2981495862671602,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.41620684269272373,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.4749272775111829,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.5045969077053515,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.3586612173528788,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.44864882726965094,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.4617033140275402,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.4595025748424958,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.3557686659537014,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.35241487856574294,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.34204121177599106,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ee0232e1dceb7b3d8",
+            "index": 62,
+            "guid": "0f9846e4-fafd-45ae-af8e-17d07ff966d3",
+            "isActive": true,
+            "temperature": {
+                "value": 1.4196149416234538,
+                "time": 1565290856615
+            },
+            "distance": 18,
+            "customer": "SPARR",
+            "location": "San Francisco",
+            "temperatureLog": [
+                {
+                    "temperature": 1.6249385952612245,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.592130869428817,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.475371141760656,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.4633633907584378,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.4527768476017324,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.4565860256504304,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.5158329193141031,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.476865946637158,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.5644203104248424,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.5149179392679968,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.521910054567468,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.4196149416234538,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e4f2ba35ae253409e",
+            "index": 63,
+            "guid": "5f1c4fe0-ff3f-458a-b986-6de1cfd4ac6a",
+            "isActive": false,
+            "temperature": {
+                "value": 2.5517343102691363,
+                "time": 1565290856615
+            },
+            "distance": 8,
+            "customer": "LITL",
+            "location": "San Francisco",
+            "temperatureLog": [
+                {
+                    "temperature": 2.6462939967234167,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 2.6208910954860576,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.5807418117065315,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.724135408874117,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.721111556460484,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.6634686319622327,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 2.712699240122839,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 2.6679943636114967,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 2.536786569353711,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 2.6670172313083214,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 2.6863151336659277,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 2.5517343102691363,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e9b7753af81d1c0cd",
+            "index": 64,
+            "guid": "c3e10af4-e457-4235-b940-41e13920c135",
+            "isActive": true,
+            "temperature": {
+                "value": 2.949190114681155,
+                "time": 1565290856615
+            },
+            "distance": 29,
+            "customer": "MALLMART",
+            "location": "Phoenix",
+            "temperatureLog": [
+                {
+                    "temperature": 2.939233534226773,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 2.906546248518788,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.8758404123359753,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.8929911448584735,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.946653039778196,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.821262298021482,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 2.8471561186268937,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 2.8393873851929627,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 2.760790354060875,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 2.926365450792792,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 2.935295273440301,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 2.949190114681155,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e64f3eeedd583201c",
+            "index": 65,
+            "guid": "1b479eaa-062a-4e5a-af8b-ea91b88f5605",
+            "isActive": true,
+            "temperature": {
+                "value": 1.6998166579986367,
+                "time": 1565290856615
+            },
+            "distance": 33,
+            "customer": "SPARR",
+            "location": "Los Angeles",
+            "temperatureLog": [
+                {
+                    "temperature": 1.7646021952811315,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.8212010101859244,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.786788196548228,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.7400828795537384,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.6187828766280679,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.7870043781391476,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.8030258352752473,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.5895381724334854,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.59960009877753,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.690480836736075,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.8134855965643366,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.6998166579986367,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e1e69c3502613b186",
+            "index": 66,
+            "guid": "87edf69d-561b-4aae-b772-aa4bbf0625c8",
+            "isActive": true,
+            "temperature": {
+                "value": 1.0537581751663003,
+                "time": 1565290856615
+            },
+            "distance": 25,
+            "customer": "MATRO",
+            "location": "Phoenix",
+            "temperatureLog": [
+                {
+                    "temperature": 1.2486322607985525,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.0429898663278108,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.1717057781138935,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.273904368289167,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.096338933216538,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.1583779230632367,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.1161720415767897,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.2191826514376605,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.0311171371504588,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.106058713672454,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.2362874579604275,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.0537581751663003,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e6de3bda3fdc4c51e",
+            "index": 67,
+            "guid": "5d914c74-66b3-4d69-9697-09a9d7805f50",
+            "isActive": false,
+            "temperature": {
+                "value": 0.9990496585798442,
+                "time": 1565290856615
+            },
+            "distance": 30,
+            "customer": "TUSCO",
+            "location": "Las Vegas",
+            "temperatureLog": [
+                {
+                    "temperature": 1.056411218852805,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.1353914417913396,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.2269896504883029,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.049918378682657,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.2090578073277696,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.0642116826054098,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.1256493056164623,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.1245771253500456,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.025763766197112,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.0520014176026915,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.198069396136878,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.9990496585798442,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6effa81de2001d4608",
+            "index": 68,
+            "guid": "a538ed5a-0481-4351-a8a4-72c5a68b71f3",
+            "isActive": true,
+            "temperature": {
+                "value": 5.1696699768179615,
+                "time": 1565290856615
+            },
+            "distance": 17,
+            "customer": "OLDI",
+            "location": "Los Angeles",
+            "temperatureLog": [
+                {
+                    "temperature": 1.5882346254417858,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.7933320934011079,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.1160399664396494,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.0407620685679166,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.9228980754491074,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 3.1772804578880196,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 3.624458197635983,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 4.230932190879547,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 3.949635548139309,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 4.186528635787451,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 4.873842110250738,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 5.1696699768179615,
+                    "time": 1565290856615
+                }
+            ],
+            "status": "deviated"
+        },
+        {
+            "_id": "5d4aec6e3d527c710a902193",
+            "index": 69,
+            "guid": "e2aef02d-3ec3-4eb2-9d3d-f0057c5106b4",
+            "isActive": true,
+            "temperature": {
+                "value": 2.045462828557615,
+                "time": 1565290856615
+            },
+            "distance": 30,
+            "customer": "LITL",
+            "location": "Chicago",
+            "temperatureLog": [
+                {
+                    "temperature": 2.071194980739549,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 2.006134027400677,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.1129280918427527,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.042916085928681,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.100629486727511,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.1089235924966743,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 2.012005079563578,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.9796261001713136,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.9800251615670135,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.996514341995708,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 2.07623227284323,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 2.045462828557615,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e23772632a49fb768",
+            "index": 70,
+            "guid": "37d7779b-dd20-4375-bce6-2acdeed612f3",
+            "isActive": false,
+            "temperature": {
+                "value": 2.5259368787501675,
+                "time": 1565290856615
+            },
+            "distance": 14,
+            "customer": "MATRO",
+            "location": "Phoenix",
+            "temperatureLog": [
+                {
+                    "temperature": 2.486338407699309,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 2.5286677512850093,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.5353952159953868,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.4866522371770574,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.4040741230469367,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.4268915662221016,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 2.5270064553311684,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 2.4537746763429964,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 2.4283822325462294,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 2.6144332188504893,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 2.6118184196056737,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 2.5259368787501675,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ea877c99768e2f401",
+            "index": 71,
+            "guid": "c0c3398f-3da1-4359-90b2-dee71c028715",
+            "isActive": false,
+            "temperature": {
+                "value": 2.6812622486181725,
+                "time": 1565290856615
+            },
+            "distance": 21,
+            "customer": "SPARR",
+            "location": "San Francisco",
+            "temperatureLog": [
+                {
+                    "temperature": 2.683623664702239,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 2.7184542996478265,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 2.6798257639905545,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 2.7165308170232123,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 2.6547679942645557,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 2.6532926754264023,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 2.66911170928446,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 2.7415111576385693,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 2.629540849350544,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 2.6255457665695103,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 2.8109975045205684,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 2.6812622486181725,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e77b8c1fe962688b2",
+            "index": 72,
+            "guid": "13a45e39-b33c-4db8-b871-a15ceede6481",
+            "isActive": false,
+            "temperature": {
+                "value": 0.30371571575096995,
+                "time": 1565290856615
+            },
+            "distance": 44,
+            "customer": "TUSCO",
+            "location": "San Antonio",
+            "temperatureLog": [
+                {
+                    "temperature": 0.3955806847009928,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.40939790529361214,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.3296022165770183,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.463840730291354,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.34039668394112327,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.3573078002426703,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.4170108983783997,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.24737784038478344,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.3534575208408872,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.2399178844892113,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.3662171068172574,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.30371571575096995,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e3b355344fa1485f1",
+            "index": 73,
+            "guid": "6ac0c358-5654-4335-a777-f0be0e78b148",
+            "isActive": false,
+            "temperature": {
+                "value": 1.7931956555652038,
+                "time": 1565290856615
+            },
+            "distance": 28,
+            "customer": "MATRO",
+            "location": "San Francisco",
+            "temperatureLog": [
+                {
+                    "temperature": 1.7952258018554894,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.6232343106274458,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.7966212721279862,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.7106527618910423,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.7916963600528788,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.7131383330262686,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.7950951804380757,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.6815697479003144,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.7251428608909998,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 1.633607955378387,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.673308720082193,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.7931956555652038,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e0057b49379510729",
+            "index": 74,
+            "guid": "1608c014-1348-4a48-8352-b554480207c3",
+            "isActive": false,
+            "temperature": {
+                "value": 1.1628696110466197,
+                "time": 1565290856615
+            },
+            "distance": 39,
+            "customer": "OLDI",
+            "location": "New York",
+            "temperatureLog": [
+                {
+                    "temperature": 1.069174606760163,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 1.1794146328725748,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 1.019970906543088,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 1.19464007514721,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 1.0374772358022417,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 1.0795847516585133,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 1.1669194742298985,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 1.0076143486786977,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 1.0721624829871563,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.9746269280007597,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 1.0370281041448117,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 1.1628696110466197,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e67598592573d5f39",
+            "index": 75,
+            "guid": "348454f6-7cb7-4b28-a96e-480ed586c8d0",
+            "isActive": false,
+            "temperature": {
+                "value": 0.2649910745770573,
+                "time": 1565290856615
+            },
+            "distance": 37,
+            "customer": "SPARR",
+            "location": "New York",
+            "temperatureLog": [
+                {
+                    "temperature": 0.17907664193038625,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.3135201575657936,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.2910482055954344,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.3411025446479235,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.24912731650929226,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.32433959785083566,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.3068911053812638,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.20062275676092628,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.16757045725632946,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.26210206625268034,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.1358170935825076,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.2649910745770573,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6e476b636918531f9e",
+            "index": 76,
+            "guid": "43d1f2b8-8a76-4d6b-b2cc-7c00133a2156",
+            "isActive": false,
+            "temperature": {
+                "value": -0.03501410692593124,
+                "time": 1565290856615
+            },
+            "distance": 49,
+            "customer": "MALLMART",
+            "location": "Las Vegas",
+            "temperatureLog": [
+                {
+                    "temperature": -0.10579351747585233,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.009244594486819496,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": -0.08107354828201288,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.022262040681862855,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.012476666651544593,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.06336093907413101,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": -0.04431778412288054,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.08858426155249796,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.03503307627748478,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": -0.06207318201454318,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": -0.11363209242518521,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": -0.03501410692593124,
+                    "time": 1565290856615
+                }
+            ]
+        },
+        {
+            "_id": "5d4aec6ee3a0fa09df714332",
+            "index": 77,
+            "guid": "8d62b7d5-05ad-42e0-a398-8e3bc10a38a1",
+            "isActive": true,
+            "temperature": {
+                "value": 4.876772407015109,
+                "time": 1565290856615
+            },
+            "distance": 8,
+            "customer": "TUSCO",
+            "location": "Las Vegas",
+            "temperatureLog": [
+                {
+                    "temperature": 3.6726297195261672,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 3.7258528598432497,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 4.013917230502022,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 4.055069803405735,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 4.2327729260387,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 4.257060681601913,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 4.6351899074236,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 4.393085916441676,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 4.820114977236717,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 4.715817001746883,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 4.72427358273463,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 4.876772407015109,
+                    "time": 1565290856615
+                }
+            ],
+            "status": "deviated"
+        },
+        {
+            "_id": "5d4aec6e93efc343a0011677",
+            "index": 78,
+            "guid": "ec26789e-8cd8-4ba0-b113-39af1b5dd224",
+            "isActive": false,
+            "temperature": {
+                "value": 0.23767454969731083,
+                "time": 1565290856615
+            },
+            "distance": 22,
+            "customer": "SPARR",
+            "location": "San Antonio",
+            "temperatureLog": [
+                {
+                    "temperature": 0.1929302293640855,
+                    "time": 1565251256615
+                },
+                {
+                    "temperature": 0.07190597474768529,
+                    "time": 1565254856615
+                },
+                {
+                    "temperature": 0.2453302808692172,
+                    "time": 1565258456615
+                },
+                {
+                    "temperature": 0.12901969918638917,
+                    "time": 1565262056615
+                },
+                {
+                    "temperature": 0.2548312044372147,
+                    "time": 1565265656615
+                },
+                {
+                    "temperature": 0.23799706064584275,
+                    "time": 1565269256615
+                },
+                {
+                    "temperature": 0.16975609538234737,
+                    "time": 1565272856615
+                },
+                {
+                    "temperature": 0.22181764036135687,
+                    "time": 1565276456615
+                },
+                {
+                    "temperature": 0.18757818665936965,
+                    "time": 1565280056615
+                },
+                {
+                    "temperature": 0.19534798524296798,
+                    "time": 1565283656615
+                },
+                {
+                    "temperature": 0.2674964029735765,
+                    "time": 1565287256615
+                },
+                {
+                    "temperature": 0.23767454969731083,
+                    "time": 1565290856615
+                }
+            ]
+        }
+    ],
+    "threshold": {
+        "warning": 4,
+        "error": 5
+    },
+    "customers": [
+        {
+            "name": "MALLMART"
+        },
+        {
+            "name": "TUSCO"
+        },
+        {
+            "name": "MATRO"
+        },
+        {
+            "name": "LITL"
+        },
+        {
+            "name": "SPARR"
+        },
+        {
+            "name": "OLDI"
+        },
+        {
+            "name": "7-12"
+        }
+    ]
+}

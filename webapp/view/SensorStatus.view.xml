@@ -1,0 +1,24 @@
+<mvc:View displayBlock="true" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="ui5codejam.icehouse.controller.SensorStatus"
+	xmlns:f="sap.f" xmlns:card="sap.f.cards" xmlns:mc="sap.suite.ui.microchart">
+	<Page id="SensorStatusPage" title="Sensor Status" showNavButton="true" navButtonPress="navToSensors">
+		<content>
+			<VBox class="sapUiContentPadding">
+				<f:Card>
+					<f:header>
+						<card:NumericHeader title="Customer: {sensors>customer}" subtitle="Location: {sensors>location}, Distance: {sensors>distance}km"
+							number="{sensors>temperature/value}" scale="°C" state="{path: 'sensors>temperature/value', formatter: '.formatValueColor'}"/>
+					</f:header>
+					<f:content>
+						<FlexBox height="450px" alignItems="Center" class="sapUiSmallMargin">
+							<mc:InteractiveLineChart points="{sensors>temperatureLog}" displayedPoints="100" selectionEnabled="false">
+								<mc:InteractiveLineChartPoint value="{=Number.parseFloat(${sensors>temperature}.toFixed(2))}"
+									color="{path: 'sensors>temperature', formatter:'.formatValueColor'}"
+									label="{ path: 'sensors>time', type: 'sap.ui.model.type.Time', formatOptions: { source: { pattern: 'timestamp' }, style: 'short' } }"/>
+							</mc:InteractiveLineChart>
+						</FlexBox>
+					</f:content>
+				</f:Card>
+			</VBox>
+		</content>
+	</Page>
+</mvc:View>

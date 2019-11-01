@@ -1,0 +1,16 @@
+<core:FragmentDefinition
+    xmlns="sap.m"
+    xmlns:core="sap.ui.core">
+    <SelectDialog
+        title="Select Customers"
+        contentHeight="38.3%"
+        rememberSelections="true"
+        confirm=".onCustomerSelectConfirm"
+    liveChange=".onCustomerSelectChange"
+        items="{
+            path: 'sensors>/customers',
+            sorter: {path:'name'}
+        }" >
+        <StandardListItem title="{sensors>name}"/>
+    </SelectDialog>
+</core:FragmentDefinition>
